@@ -7,7 +7,8 @@ hope it can save you some time when applying these projects:
 Module 1: This is a frontal face recognition project using Haarcascade for eyes and face.
 In the homework, a smile detector was added for human faces and cat face detection
 was applied. 
-env setup: Everything should work with the most recent Anaconda packages with python 3.7 etc.
+
+env setup: Everything should work with the most recent Anaconda packages, python 3.7 etc.
 Please don't struggle with the course installation yml file. It's too outdated.
 
 -------------------------------------------------------------------------------------------------
