@@ -4,7 +4,7 @@ There are some introductions and headups I would like to share when I'm studying
 hope it can save you some time when applying these projects:
 
 -------------------------------------------------------------------------------------------------
-Module 1: Frontal face recognition project using Haarcascade for eyes and face.
+Module 1: This is a frontal face recognition project using Haarcascade for eyes and face.
 In the homework, a smile detector was added for human faces and cat face detection
 was applied. 
 env setup: Everything should work with the most recent Anaconda packages with python 3.7 etc.
@@ -20,4 +20,4 @@ and imageio 2.2.0.
 
 
 -------------------------------------------------------------------------------------------------
-Module 3: 
+Module 3:  GANs
