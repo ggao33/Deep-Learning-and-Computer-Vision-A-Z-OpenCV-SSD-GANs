@@ -17,11 +17,10 @@ moving dog.
 
 env setup: Partial code might not be compatible with the most updated Anaconda packages. But
 it worked fine on old version of Anaconda 3 1.6.8, python 3.6, pytorch 1.0.0, torchvision 0.2.1
-and imageio 2.2.0.
+and imageio 2.2.0. If the result doesn't look good enough, downgrade pytorch < 0.4.0
 
 modifications: /layer/functions/detection.py  
                line 58 if socres.dim() == 0:  =>  if scores.size(0) == 0:
 
-
 -------------------------------------------------------------------------------------------------
-Module 3:  GANs
+Module 3:  Image Creation with GANs
