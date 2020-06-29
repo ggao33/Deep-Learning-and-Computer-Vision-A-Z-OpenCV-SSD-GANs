@@ -23,5 +23,7 @@ and imageio 2.2.0. If the result doesn't look good enough, downgrade pytorch < 0
 modifications: /layer/functions/detection.py  
                line 58 if socres.dim() == 0:  =>  if scores.size(0) == 0:
 
+![GitHub Logo](/Module_2_Project_Object_Detection_SSD_Funny_Dog/funnydog.png)
+![GitHub Logo](/Module_2_Homework_Epic_Horses/epic_horse_solution.png)
 -------------------------------------------------------------------------------------------------
 Module 3:  Image Creation with GANs
