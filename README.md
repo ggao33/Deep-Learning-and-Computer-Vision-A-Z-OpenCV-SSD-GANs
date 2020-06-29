@@ -12,7 +12,6 @@ env setup: Everything should work with the most recent Anaconda packages, python
 Please don't struggle with the course installation yml file. It's too outdated.
 
 ![GitHub Logo](/Module_1_Homework/catface.jpg)
-Format: ![Alt Text](url)
 -------------------------------------------------------------------------------------------------
 Module 2: Funny_dog.mp4 is the input video for SSD neural network to detect human and a 
 moving dog.
