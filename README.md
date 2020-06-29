@@ -11,10 +11,12 @@ env setup: Everything should work with the most recent Anaconda packages with py
 Please don't struggle with the course installation yml file. It's too outdated.
 
 -------------------------------------------------------------------------------------------------
-Module 2: Object detection using SSD.
+Module 2: Funny_dog.mp4 is the input video for SSD neural network to detect human and a 
+moving dog.
 
 env setup: Partial code might not be compatible with the most updated Anaconda packages. But
-it worked on an old version. 
+it worked fine on old version of Anaconda 3 1.6.8, python 3.6, pytorch 1.0.0, torchvision 0.2.1
+and imageio 2.2.0.
 
 
 -------------------------------------------------------------------------------------------------
