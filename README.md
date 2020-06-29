@@ -20,7 +20,7 @@ it worked fine on old version of Anaconda 3 1.6.8, python 3.6, pytorch 1.0.0, to
 and imageio 2.2.0.
 
 modifications: /layer/functions/detection.py  
-               line 58 if socres.dim == 0:  =>  if scores.size(0) == 0:
+               line 58 if socres.dim() == 0:  =>  if scores.size(0) == 0:
 
 
 -------------------------------------------------------------------------------------------------
